@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            margin: 20px;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: rgb(214, 113, 113);
+            padding: 100px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #040208e8;
+        }
+    </style>
+</head>
+<body>
+    <h1><center>INDIA</center></h1>
+    <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNLxVFsI6Ri9xad9jiLs07gEb0hqyyQYIaRQ&s" alt="">
+    </center>
+    <p>India, officially the Republic of India,[j][21] is a country in South Asia. It is the seventh-largest country by area; the most populous country from June 2023 onwards;[22][23] and since its independence in 1947, the world's most populous democracy.[24][25][26] Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west;[k] China, Nepal, and Bhutan to the north; and Bangladesh and Myanmar to the east. In the Indian Ocean, India is near Sri Lanka and the Maldives; its Andaman and Nicobar Islands share a maritime border with Thailand, Myanmar, and Indonesia.</p>
+    <h1>Etymology</h1>  
+    <p>According to the Oxford English Dictionary (third edition 2009), the name "India" is derived from the Classical Latin India, a reference to South Asia and an uncertain region to its east. In turn the name "India" derived successively from Hellenistic Greek India ( Ἰνδία), ancient Greek Indos ( Ἰνδός), Old Persian Hindush (an eastern province of the Achaemenid Empire), and ultimately its cognate, the Sanskrit Sindhu, or "river", specifically the Indus River and, by implication, its well-settled southern basin.[72][73] The ancient Greeks referred to the Indians as Indoi (Ἰνδοί), which translates as "The people of the Indus".[74]
+
+        The term Bharat mentioned in both Indian epic poetry and the Constitution of India,[75][76] is used in its variations by many Indian languages. A modern rendering of the historical name Bharatavarsha, which applied originally to North India,[77][78] Bharat gained increased currency from the mid-19th century as a native name for India</p>
+    <h1>History</h1>
+    <h2>Ancient India</h2>
+    <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Battle_at_Lanka%2C_Ramayana%2C_Udaipur%2C_1649-53.jpg/220px-Battle_at_Lanka%2C_Ramayana%2C_Udaipur%2C_1649-53.jpg" alt=""></center>
+    <p>By 55,000 years ago, the first modern humans, or Homo sapiens, had arrived on the Indian subcontinent from Africa, where they had earlier evolved.[28][29][30] The earliest known modern human remains in South Asia date to about 30,000 years ago.[28] After 6500 BCE, evidence for domestication of food crops and animals, construction of permanent structures, and storage of agricultural surplus appeared in Mehrgarh and other sites in Balochistan, Pakistan.[83] These gradually developed into the Indus Valley Civilisation,[84][83] the first urban culture in South Asia,[85] which flourished during 2500–1900 BCE in Pakistan and western India.[86] Centred around cities such as Mohenjo-daro, Harappa, Dholavira, and Kalibangan, and relying on varied forms of subsistence, the civilisation engaged robustly in crafts production and wide-ranging trade.[85]</p>
+    <h2>Medieval India</h2>
+    <p>The Indian early medieval age, from 600 to 1200 CE, is defined by regional kingdoms and cultural diversity.[110] When Harsha of Kannauj, who ruled much of the Indo-Gangetic Plain from 606 to 647 CE, attempted to expand southwards, he was defeated by the Chalukya ruler of the Deccan.[111] When his successor attempted to expand eastwards, he was defeated by the Pala king of Bengal.[111] When the Chalukyas attempted to expand southwards, they were defeated by the Pallavas from farther south, who in turn were opposed by the Pandyas and the Cholas from still farther south.[111] No ruler of this period was able to create an empire and consistently control lands much beyond their core region.[110] During this time, pastoral peoples, whose land had been cleared to make way for the growing agricultural economy, were accommodated within caste society, as were new non-traditional ruling classes.[112] The caste system consequently began to show regional differences</p>
+    <p>In the 6th and 7th centuries, the first devotional hymns were created in the Tamil language.[113] They were imitated all over India and led to both the resurgence of Hinduism and the development of all modern languages of the subcontinent.[113] Indian royalty, big and small, and the temples they patronised drew citizens in great numbers to the capital cities, which became economic hubs as well.[114] Temple towns of various sizes began to appear everywhere as India underwent another urbanisation.[114] By the 8th and 9th centuries, the effects were felt in Southeast Asia, as South Indian culture and political systems were exported to lands that became part of modern-day Myanmar, Thailand, Laos, Brunei, Cambodia, Vietnam, Philippines, Malaysia, and Indonesia.[115] Indian merchants, scholars, and sometimes armies were involved in this transmission; Southeast Asians took the initiative as well, with many sojourning in Indian seminaries and translating Buddhist and Hindu texts into their languages.[115]</p>
+    <h2>Early modern India</h2>
+    <p>In the early 16th century, northern India, then under mainly Muslim rulers,[123] fell again to the superior mobility and firepower of a new generation of Central Asian warriors.[124] The resulting Mughal Empire did not stamp out the local societies it came to rule. Instead, it balanced and pacified them through new administrative practices[125][126] and diverse and inclusive ruling elites,[127] leading to more systematic, centralised, and uniform rule.[128] Eschewing tribal bonds and Islamic identity, especially under Akbar, the Mughals united their far-flung realms through loyalty, expressed through a Persianised culture, to an emperor who had near-divine status.[127] The Mughal state's economic policies, deriving most revenues from agriculture[129] and mandating that taxes be paid in the well-regulated silver currency,[130] caused peasants and artisans to enter larger markets.[128] The relative peace maintained by the empire during much of the 17th century was a factor in India's economic expansion,[128] resulting in greater patronage of painting, literary forms, textiles, and architecture.[131] Newly coherent social groups in northern and western India, such as the Marathas, the Rajputs, and the Sikhs, gained military and governing ambitions during Mughal rule, which, through collaboration or adversity, gave them both recognition and military experience.[132] Expanding commerce during Mughal rule gave rise to new Indian commercial and political elites along the coasts of southern and eastern India.[132] As the empire disintegrated, many among these elites were able to seek and control their own affairs.</p>
+    <h2>Modern India    </h2>
+    <p>Historians consider India's modern age to have begun sometime between 1848 and 1885. The appointment in 1848 of Lord Dalhousie as Governor General of the East India Company set the stage for changes essential to a modern state. These included the consolidation and demarcation of sovereignty, the surveillance of the population, and the education of citizens. Technological changes—among them, railways, canals, and the telegraph—were introduced not long after their introduction in Europe. However, disaffection with the company also grew during this time and set off the Indian Rebellion of 1857.
+         Fed by diverse resentments and perceptions, including invasive British-style social reforms, harsh land taxes, and summary treatment of some rich landowners and princes, the rebellion rocked many regions of northern and central India and shook the foundations of Company rule.[145][146] Although the rebellion was suppressed by 1858, it led to the dissolution of the East India Company and the direct administration of India by the British government. Proclaiming a unitary state and a gradual but limited British-style parliamentary system, the new rulers also protected princes and landed gentry as a feudal safeguard against future unrest.[147][148] In the decades following, public life gradually emerged all over India, leading eventually to the founding of the Indian National Congress in 1885.[149][150][151][152]</p>
+         <h1>STATES</h1>
+        <li><a href="https://en.wikipedia.org/wiki/Andhra_Pradesh">Andra Pradesh</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Arunachal_Pradesh">Arunachal Pradesh</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Assam">Assam</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Bihar">Bihar</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Chhattisgarh">Chattisghar</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Goa">Goa</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Gujarat">Gujarat</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Haryana">Haryana</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Himachal_Pradesh">Himachal Pradesh</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Jharkhand">Jharkhand</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Karnataka">Karnataka</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Kerala">Kerala</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Madhya_Pradesh">Madhaya Pradesh</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Maharashtra">Maharastra</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Manipur">Manipur</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Meghalaya">Meghalaya</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Mizoram">Mizoram</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Nagaland">Nagaland</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Odisha">Odisha</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Punjab,_India">Punjab</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Rajasthan">Rajasthan</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Sikkim">Sikkim</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Tamil_Nadu">Tamil Nadu</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Telangana">Telugana</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Tripura">Tripura</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Uttar_Pradesh">Uttar Pradesh</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Uttarakhand">Uttarakhand</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/West_Bengal">West Bengal</a></li>
+        <h1><strong>UNION TERRITORIES</strong></h1> 
+        <li>Andaman and Nicobar Islands</li>
+        <li>Chandigarh</li>
+        <li>Dadra and Nagar Haveli and Daman and Diu</li>
+        <li>Jammu and Kashmir</li>
+        <li>Ladakh</li>
+        <li>Lakshadweep</li>
+        <li>National Capital Territory of Delhi</li>
+        <li>Puducherry</li>
+
+        <h1><strong>STATES AND THIER CAPITILAS:</strong></h1>
+        <center>
+        <table border="strong">
+            <tr>
+                <th><bold>STATES</bold></th>
+                <th><bold>CAPITAL</bold></th>
+                <th><bold>FORMED YEAR</bold></th>
+            </tr>
+            <tr><td>Andhra Pradesh</td><td>Amaravati</td><td> 1956</td></tr>
+            <tr><td>Bihar</td><td>Patna</td><td>1950</td></tr>
+            <tr><td>Chhattisgarh</td><td>Raipur</td><td> 2020</td></tr>
+            <tr><td>Goa</td><td>Panaji</td><td>1987</td></tr>
+            <tr><td>Himachal Pradesh</td><td>Shimla</td><td>1971</td></tr>
+            <tr><td>Kerala</td><td>Thiruvananthapuram</td><td>1956</td></tr>
+            <tr><td>Maharashtra</td><td>Mumbai</td><td>1960</td></tr>
+            <tr><td>Rajasthan</td><td>Jaipur</td><td>1949</td></tr>
+            <tr><td>Punjab</td><td>Chandigarh</td><td>1966</td></tr>
+            <tr><td>Tamil Nadu</td><td>Chennai</td><td>1956</td></tr>
+            <tr><td>Uttar Pradesh</td><td>Lucknow</td><td>1950</td></tr>
+            <tr><td>West Bengal</td><td>Kolkata</td><td>1950</td></tr>
+        </table>
+    </center>
+    <center>
+    <h1>To get more informations about INDIA visit the below page </h1>
+    <a href="https://www.youtube.com/watch?v=M_OUee3x2YU"><strong>CLICK HERE</strong></a>
+</center>
+<center><h1>Thank You!</h1></center>
+</body>
+</html>
+
