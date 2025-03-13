@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <center><h1><strong>REGISTER </strong></h1>
+  <label for="NAME">NAME:</label>
+    <input type="name" name="name" id="name" ><br>
+   <br> <label for="email">EMAIL:</label>
+    <input type="email"><br>
+   <br> <label for="PASSWORD">PASSWORD:</label>
+    <input type="password"><br>
+    <br><label for="confirm password">CONFIRM PASS:</label>
+    <input type="password"><br>
+   <br><button>REGISTER</button><br></center><br>
+ <center> <h1><strong>LOGIN</strong></h1>
+   <label for="username">USERNAME:</label>
+   <input type="username"><br>
+  <br><label for="password">PASSWORD:</label>
+ <input type="password"><br>
+ <br><button>LOGIN</button></center>
+</body>
+</html>
